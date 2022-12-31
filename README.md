@@ -9,6 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=dfmode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dfmode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfmode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=dfmode&icon=1&color=2)](https://visitcount.itsvg.in)
