@@ -10,10 +10,4 @@
  
 </p>
 
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=qpwedev&show_icons=true&locale=en&theme=dark)](https://github.com/qpwedev)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpwedev&layout=compact&theme=dark)](https://github.com/qpwedev)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qpwedev&label=Profile%20views&color=0e75b6&style=flat" alt="qpwedev" /> </p>
