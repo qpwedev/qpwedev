@@ -1,4 +1,4 @@
-<h1 align="left">Ahoy 👋, I'm qpwedev</h1>
+<h1 align="left">Ahoy, I'm qpwedev</h1>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
