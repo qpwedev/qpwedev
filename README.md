@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm qpwedev</h1>
 
-![readme hero](https://telegra.ph/file/b3d2d608ff542fe2172d8.jpg)
+![readme hero](https://telegra.ph/file/1d1f79ff3ae5de1d45e50.jpg)
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
