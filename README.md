@@ -2,10 +2,10 @@
     <h1>Hi there, I'm qpwedev</h1>
     <p>
         <b>
+            <a href="https://t.me/qdevstudio">QDev Studio</a> |
             <a href="https://t.me/qpwedev">Telegram</a> |
             <a href="https://twitter.com/qpwedev">Twitter</a> |
-            <a href="https://t.me/qdevstudio">QDev Studio</a> |
-            <a href="https://www.duolingo.com/profile/qpwedev">Duolingo</a>
+            <a href="https://www.youtube.com/channel/UC7L4-q-vON2bkrLU1z4rsKw">Youtube</a>
         </b>
     </p>
     <p>
