@@ -9,28 +9,28 @@
         </b>
     </p>
     <p>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
                 width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
                 alt="csharp" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
                 alt="docker" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                 alt="postgresql" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="30" height="30" /></a>
     </p>
