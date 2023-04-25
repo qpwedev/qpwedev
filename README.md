@@ -15,7 +15,6 @@
 </div>
 
 <div align="center">
-    <h3>💻 Languages and Tools:</h3>
     <p>
         <a href="https://github.com/qpwedev" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
