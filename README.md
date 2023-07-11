@@ -1,5 +1,5 @@
 <div align="center" style="display:grid;place-items:center;">
-    <h1>Hi there, I'm qpwedev</h1>
+    <h1>Hi there, I'm qpwe</h1>
     <p>
         <b>
             <a href="https://t.me/qdevstudio">QDev Studio</a> |
