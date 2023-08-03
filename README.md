@@ -52,6 +52,8 @@
 </div>
 
 <div align="center">
+    
+[![codewars](https://www.codewars.com/users/qpwedev/badges/micro)](https://www.codewars.com/users/qpwedev)
     <img src="https://komarev.com/ghpvc/?username=qpwedev&label=Profile%20views&color=0e75b6&style=flat"
         alt="qpwedev" />
 </div>
