@@ -4,7 +4,7 @@
         <b>
             <a href="https://t.me/qdevstudio">QDev Studio</a> |
             <a href="https://t.me/qpwedev">Telegram</a> |
-            <a href="https://twitter.com/qpwedev">Twitter</a> |
+            <a href="https://twitter.com/qpwedev">X</a> |
             <a href="https://www.youtube.com/channel/UC7L4-q-vON2bkrLU1z4rsKw">Youtube</a>
         </b>
     </p>
