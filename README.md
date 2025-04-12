@@ -2,8 +2,6 @@
     <h1>Hi there, I'm qpwe</h1>
     <p>
         <b>
-             <a href="https://t.me/qpwedev">telegram</a> |
-             <a href="https://twitter.com/qpwedev">x</a> |
             <a href="https://t.me/qdevstudio">qdevsudio</a> |
             <a href="https://www.youtube.com/channel/UC7L4-q-vON2bkrLU1z4rsKw">qpwetech</a>
         </b>
