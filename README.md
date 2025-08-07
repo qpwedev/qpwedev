@@ -7,9 +7,6 @@
         </b>
     </p>
     <p>
-          <a href="https://github.com/qpwedev" rel="noreferrer"><img
-                src="https://gist.githubusercontent.com/qpwedev/eed15619e982c480ea9b0f14d3e564ad/raw/74042062aa0f7047696b8a2b54538d772d922beb/ton.svg"
-                alt="typescript" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="30" height="30" /></a>
@@ -34,6 +31,9 @@
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="30" height="30" /></a>
+           <a href="https://github.com/qpwedev" rel="noreferrer"><img
+                src="https://gist.githubusercontent.com/qpwedev/eed15619e982c480ea9b0f14d3e564ad/raw/74042062aa0f7047696b8a2b54538d772d922beb/ton.svg"
+                alt="typescript" width="30" height="30" /></a>
     </p>
 </div>
 
@@ -42,8 +42,6 @@
 </div>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qpwedev&theme=github_dark"
-        alt="Most Commit Language" style="max-width: 100%; height: auto;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qpwedev&theme=github_dark"
         alt="Most Commit Language" style="max-width: 100%; height: auto;" />
 
